@@ -1,0 +1,459 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <base href="%PUBLIC_URL%/" /> 
+    <!--====== Required meta tags ======-->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!--====== Title ======-->
+    <title>$TITLE</title>
+     
+    <!-- Icon -->
+      <!-- <link rel="" href="" type="image/x-icon">   -->
+
+
+    <meta name="description" content="$OG_DESCRIPTION" />
+  
+    <meta name="author" content="MENAFN"> 
+     <meta name="keywords" content="$keywords" />
+    <meta name="news_keywords" content="$keywords" />
+    <meta property="og:description" content="$OG_DESCRIPTION" />
+    <meta data-rh="true" property="og:description" content="$OG_DESCRIPTION" />
+    <meta data-rh="true" property="og:title" content="$OG_TITLE" />
+    <meta data-rh="true" property="og:type" content="article" />
+    <meta data-rh="true" property="og:url" content="$Meta_OG_URL" />
+    <meta data-rh="true" property="og:image" content="$Meta_OG_Image" />
+    <meta data-rh="true" property="og:image:width" content="300" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@menafn" />
+    <meta name="twitter:site:id" content="65910734" />
+    <meta name="twitter:creator" content="@menafn" />
+    <meta name="twitter:creator:id" content="65910734" />
+    <meta name="twitter:description" content="$OG_DESCRIPTION" />
+    <meta name="twitter:title" content="$OG_TITLE" />
+    <meta name="twitter:url" content="$Meta_OG_URL" />
+    <meta name="twitter:image:src" content="$Meta_OG_Image" />
+    <meta name="author" content="MENAFN" />
+    <meta name="resource-type" content="document" />
+    <meta name="distribution" content="global" />
+    <meta name="rating" content="general" />
+    <meta name="y_key" content="63f5d0c14b50c6c7" />
+
+    
+$meta_link
+$JsonSchema
+$Meta_Headers 
+<div  hidden ="hidden" id="clientip"    >$clientip</div>
+
+
+     
+
+ 
+
+
+    <!--====== Bootstrap css ======-->
+    <link rel="stylesheet" href=" ./css/bootstrap.min.css">
+
+    <!--====== Fontawesome css ======-->
+    <link rel="stylesheet" href=" ./css/font-awesome.min.css">
+
+    <!--====== Magnific Popup css ======-->
+    <link rel="stylesheet" href=" ./css/magnific-popup.css">
+
+    <!--====== nice select css ======-->
+    <link rel="stylesheet" href=" ./css/nice-select.css">
+
+    <!--====== Slick css ======-->
+    <link rel="stylesheet" href=" ./css/slick.css">
+
+    <!--====== stellarnav css ======-->
+    <link rel="stylesheet" href=" ./css/stellarnav.css">
+
+    <!--====== Default css ======-->
+    <link rel="stylesheet" href=" ./css/default.css">
+
+    <!--====== Style css ======-->
+    <link rel="stylesheet" href=" ./css/style.css">
+
+
+    
+
+    <script async src="https://cse.google.com/cse.js?cx=671aa4b5bacc64616">
+    </script>
+</head>
+
+<body class="home-2-bg">
+    
+    <!--====== PRELOADER PART START ======-->
+    <div class="preloader">
+        <div>
+            
+            <div class="nb-spinner"> </div>
+        </div>
+    </div>
+    <!--====== PRELOADER PART ENDS ======-->
+
+    <!--====== HEADER PART START ======-->
+
+    <header class="header-area header-style-2 header-style-4 ">
+        <div class="header-topbar">
+            <div class="container custom-container">
+                <div class="row align-items-center">
+                    <div class="col-lg-8">
+                        <div class="topbar-trending">
+                            <span>Trending</span>
+                            <div class="trending-slider">
+                                <div class="trending-item">
+                                    <p>Top 10 Best Movies of 2018 So Far: Great Movies To Watch Now </p>
+                                </div>
+                                <div class="trending-item">
+                                    <p>Top 10 Best Movies of 2018 So Far: Great Movies To Watch Now </p>
+                                </div>
+                                <div class="trending-item">
+                                    <p>Top 10 Best Movies of 2018 So Far: Great Movies To Watch Now </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="topbar-social d-flex align-items-center">
+                            <div class="social ">
+                                <ul class="">
+                                    <li><a href="#"><i class=" fab fa-facebook-f "></i></a></li>
+                                    <li><a href="#"><i class=" fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class=" fab fa-youtube"></i></a></li>
+                                    <li><a href="#"><i class=" fab fa-instagram"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="header-menu-search">
+                                <ul>
+                                    <li><a href="#"><i class="fal fa-user-circle"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="nice-select-item">
+                                <select>
+                                    <option data-display="English">English</option>
+                                    <option value="1">Arabic</option>
+                                 
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header-centerbar">
+            <div class="container custom-container">
+                <div class="row align-items-center">
+                    <div class="col-lg-5 col-md-5">
+                        <div class="logo">
+                            <a href="Home">
+                                <img src="./images/athletix_Logo.png" alt="">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 col-md-7">
+                        <div class="header-search">
+                              <div class="input-box "> 
+                            <div class="gcse-search"> 
+                            </div>
+                            </div>
+                    </div>
+                </div>
+                  
+                </div>
+            </div>
+        </div>
+        <div class="header-menubar">
+            <div class="container custom-container">
+                <div class="menubar-bg">
+                    <div class="row align-items-center">
+                        <div class="col-lg-9 col-sm-3 col-3">
+                            <div class="header-menu header-menu-style-2">
+                                <div class="stellarnav">
+                                    <ul>
+                                        <li><a class="Cllick" href="http://athletixnet.com/Home">Home</a>
+                             
+ 
+                                        </li>
+                                        <li><a class=".Cllick" href="http://athletixnet.com/Football">Football</a>
+                                       
+                                        </li>
+                                        <li><a class=".Cllick" href="http://athletixnet.com/BasketBall">Basket</a>
+
+                                    
+                                        </li>
+                                        <li><a class=".Cllick" href="http://athletixnet.com/Cricket">Cricket </a>
+                                          
+                                        </li>
+
+                                        
+                                    </li>
+                                    <li><a class=".Cllick" href="http://athletixnet.com/Formula1">Formula1 </a>
+                                      
+                                    </li>
+
+                                    </li>
+                                    <li><a class=".Cllick" href="http://athletixnet.com/Tennis">Tennis </a>
+                                      
+                                    </li>
+                                       
+                                </li>
+                                <li><a class=".Cllick" href="http://athletixnet.com/Boxing">Boxing </a>
+                                  
+                                </li>
+                                    
+                                    
+                                </li>
+                                <li><a class=".Cllick" href="Ufc">UFC </a>
+                                  
+                                </li>
+                             
+                                        
+                                    </ul>
+                                </div><!-- .stellarnav -->
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-9 col-9">
+                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div id="root"></div>
+
+    <footer class="footer-style-2-area">
+        <div class="container custom-container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="widget widget-about">
+                        <a href="#"><img src="./images/athletix_Logo.png" alt=""></a>
+                        <p><span>AthletexNet</span> vitae elementum ros. Pellentesquees Leo sed mi ullamcorper tristique mauris varius. congue enim in arcu maximus feugiat vitae ut quam finibus risus molestie viverra.</p>
+                    </div>
+                  
+                    <div class="weidget weidget-ad ">
+                        <div class="ad">
+                            
+                        </div>
+                        <div class="widget widget-news-categories">
+                            <div class="section-title">
+                                <h3 class="title">News categories</h3>
+                            </div>
+                            <div class="categories-list d-flex">
+                                <ul class="pr-80">
+                                    <li><a href="Football">Football</a></li>
+                                    <li><a href="BasketBall">Basket</a></li>
+                                    <li><a href="Cricket">Cricket</a></li>
+                                    <li><a href="Tennis">Tennis</a></li>
+                                
+                                </ul>
+                                <ul>
+                                    
+                                    <li><a href="Formula1">Formula1</a></li>
+                                    <li><a href="Boxing">Boxing</a></li>                                   
+                                    <li><a href="Ufc">Ufc</a></li>
+                                  
+                                     
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                
+                </div>
+                <div class="col-lg-8">
+                    
+                    <div class="footer-center-box mt-40">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6">
+                               
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="widget widet-newsletter">
+                                    <div class="post-newsletter">
+                                        <h3 class="title">Newsletter</h3>
+                                        <p>Your email address will not be this published. Required fields are News Today.</p>
+                                        <form action="#">
+                                            <div class="input-box">
+                                                <input type="text" placeholder="Your email address">
+                                                <button type="button">SIGN UP</button>
+                                            </div>
+                                        </form>
+                                        <span>We hate spam as much as you do</span>
+                                    </div>
+                                </div>
+                                <div class="weidget widget-social">
+                                    <div class="post-contact mt-40">
+                                        <div class="section-title">
+                                            <h3 class="title">Contact us</h3>
+                                        </div>
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="fab fa-facebook-f"></i>
+                                                    <span>More 1 Million</span>
+                                                    <p>Fans</p>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a class="item-2" href="#">
+                                                    <i class="fab fa-twitter"></i>
+                                                    <span>More 1 Million</span>
+                                                    <p>Followers</p>
+                                                </a>
+                                            </li>
+                                            <li>
+                                               
+                                                    <a class="item-4" href="#">
+                                                        <i class="fab fa-instagram"></i>
+                                                        <span>More 1 Million</span>
+                                                        <p>Followers</p>
+                                                    </a>
+                                              
+                                            </li>
+                                        </ul>
+                                       
+                                    </div>
+                                </div>
+                          
+                            </div>
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+    </footer>
+     
+    <div class="footer-copyright footer-copyright-style-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="copyright-item d-block d-md-flex justify-content-between align-items-center">
+                        <p>© Copyright 2020, All Rights Reserved</p>
+                        <ul>
+                            <li><a href="#">About</a></li>
+                            <li><a href="#">Advertise</a></li>
+                            <li><a href="#">Privacy & Policy</a></li>
+                            <li><a href="ContactUs">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--====== FOOTER STYLE 2 PART ENDS ======-->
+
+    <!--====== GO TO TOP PART START ======-->
+
+    <div class="go-top-area">
+        <div class="go-top-wrap">
+            <div class="go-top-btn-wrap">
+                <div class="go-top go-top-btn">
+                    <i class="fa fa-angle-double-up"></i>
+                    <i class="fa fa-angle-double-up"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--====== GO TO TOP PART ENDS ======-->
+
+
+
+
+
+
+
+
+    <!--====== PART START ======-->
+
+    <section class="">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-">
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--====== PART ENDS ======-->
+
+
+       <!--====== jquery js ======-->
+       <script src=" ./js/vendor/modernizr-3.6.0.min.js"></script>
+       <script src=" ./js/vendor/jquery-1.12.4.min.js"></script>
+   
+   
+       <!--====== Bootstrap js ======-->
+       <script src=" ./js/bootstrap.min.js"></script>
+       <script src=" ./js/popper.min.js"></script>
+   
+       <!--====== Slick js ======-->
+       <script src=" ./js/slick.min.js"></script>
+   
+       <!--====== nice select js ======-->
+       <script src=" ./js/jquery.nice-select.min.js"></script>
+   
+       <!--====== stellarnav js ======-->
+       <script src=" ./js/stellarnav.min.js"></script>
+   
+       <!--====== circle progress js ======-->
+       <script src=" ./js/circle-progress.min.js"></script>
+   
+       <!--====== Magnific Popup js ======-->
+       <script src=" ./js/jquery.magnific-popup.min.js"></script>
+   
+       <!--====== Main js ======-->
+       <script src=" ./js/main.js"></script>
+     
+   
+
+
+
+<script>
+
+ 
+     
+ 
+
+
+ (function() {   
+    var cx = '!!!!!!!!!!!!!!!!!!!';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=671aa4b5bacc64616'+ cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+})();
+
+window.onload = function(){
+ 
+
+ document.getElementById('gsc-i-id1').value ="What you want to Search Search ?  ";
+ document.getElementById('gsc-i-id1') .style.height = "40px";
+
+ document.getElementById('gsc-i-id1') .style.color = "black";
+ document.getElementById('gsc-i-id1') .style.background = "#ecedee";
+ 
+};
+ 
+ 
+</script>
+
+
+
+
+    
+</body>
+
+</html>

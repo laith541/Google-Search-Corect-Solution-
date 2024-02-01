@@ -1,0 +1,144 @@
+
+  /* Google Search  */
+
+  /* Problem Shadow  this is high level of css change auto fill css style from google library */
+  input:-webkit-autofill,
+  input:-webkit-autofill:hover, 
+  input:-webkit-autofill:focus, 
+  input:-webkit-autofill:active{
+      -webkit-box-shadow: 0 0 0 30px white inset !important;
+  }
+  
+  input:-webkit-autofill{
+    -webkit-text-fill-color: black !important;
+ 
+}
+
+
+ 
+
+
+
+
+/* End Problem Shadow in search bar */
+
+ 
+ 
+ 
+
+  body {
+	margin: 10;
+}
+ 
+form.gsc-search-box,
+table.gsc-search-box {
+	margin-bottom: 0 !important;
+}
+.gcse-search-box {
+	border: 0 !important;
+	background: white !important;
+}
+.gcse-search-box-tools .gcse-search-box .gcse-input {
+	padding-right: 0 !important;
+}
+#gs_tti50 {
+	padding: 5px 0 !important;
+ 
+}
+
+
+
+ 
+
+ 
+ 
+ 
+
+
+ 
+
+
+ 
+  
+ 
+
+ 
+
+
+
+input#gsc-i-id1.gsc-input{
+  color: black;
+  height: 40px;
+}
+ 
+
+input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px white inset !important;
+  
+}
+input:-webkit-autofill {
+  -webkit-text-fill-color: white !important;
+  
+}
+
+ 
+
+
+/*  */
+
+
+
+.gsib_b {
+	display: none !important;
+}
+.gsc-search-button -v2 {
+	padding: 7.5px !important;
+ 
+ 
+ 
+	cursor: pointer;
+}
+.gsc-search-button-v2,gsc-search-button-v2: hover {
+	cursor: pointer;
+}
+.gsc-search-button-v2,gsc-search-button-v2: hover {
+	background-color: transparent !important;
+	background-image: none !important;
+}
+.gsc-search-button -v2:focus {
+	outline: none !important;
+	box-shadow: none !important;
+	background-color: transparent !important;
+	background-image: none !important;
+}
+.gsc-search-button -v2:focus {
+	outline: none !important;
+	box-shadow: none !important;
+}
+
+ 
+
+.gsc-control-cse {
+  padding: 3px !important;
+  background-color: white;
+   
+ 
+  overflow: hidden;
+}
+
+ 
+    /*End Google Search Style  */
+ 
+    /* this is or search button */
+    .header-area.header-style-2 .header-centerbar .header-search .input-box button {
+      position: absolute;
+      right: 0;
+      top: 10px;
+     
+      width: 50px;
+      height: 40px;
+      text-align: center;
+      background: red;
+      color: #fff;
+      border: 0;
+      border-radius: 0 5px 5px 0; }
